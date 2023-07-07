@@ -1,0 +1,122 @@
+<!DOCTYPE html5>
+
+<html> 
+
+
+<head>
+<link rel="shortcut icon" href="image/fahim linked in 400X400.jpg"type="image/x-icon" >
+
+<title>  Fahim </title>
+
+  <style> body{background-color: purple; color:aqua;
+                border-top:14px solid black;
+      border-radius:12px}
+
+li{color:yellow;}
+
+#starting{color:pink; font-size:large;}
+#main{color:black; background:white;}
+
+*{margin-rigth:4;
+  margin-left:4;}
+.photo{ text-align: center;}
+
+  </style>
+
+
+</head>
+
+<body> 
+
+
+<h1 style="color:orange; background-color: black;<"  > Welcome to <strong>Fahims</strong> web</h1> 
+     <input type="date">
+	 <hr/>
+    <p id="starting">Hello! This is <strong>MD Fahim Pathan</strong>. You can call me <strong><em>Fahim</em></strong>. Today is <del>24</del> 25 june 2023. From today I start my web development journey. I enroll the course of <u> <a href="https://www.programming-hero.com" target="_blank" style="color:red"> programming hero</a> </u>. I am very excited to started my journey with them    </p>  
+	
+	<p id="main"> Okay, if I tell about myself, I am a student. I pass my <abbr title="Higher School Certificate"> HSC </abbr> in 2022. Then I went to Dhaka for varsity coching. I want to study in <abbr title=" University of Dhaka"> DU </abbr>. So I tried my heart and soul. I tried my best as I can. But I am in vain. Atlast I could not chance any public University. Now I decide that I try secound time in <abbr title="Bangladesh University of Proffesional"> BUP </abbr>.</p>
+	I know a theory. (a+b)<sup>2</sup>= a<sup>2</sup>+2ab+b<sup>2</sup> 
+	             <br/>
+				 
+	 Here is my photo----> <br/>
+	                  <abbr title="MD Fahim Pathan" > <img class="photo" src="image/fahim linked in 400X400.jpg" width="200" alt="Error photo"> </abbr> <br/>
+					  Usally I like to eating something hole day. But I have some favourite food.<br/> 
+					  <b> My favourite food list</b>
+					   <ol type="i"> 
+					   <li> Chicken grill </li>
+					   <li> Jack fruit Mash </li>
+					   <li> Sarma </li>
+					   </ol>
+					   <br>
+					   
+					   <h3> Please Log In Here</h3>
+					   Email: <input type="email" Placeholder="Email"> <br>
+					   Password: <input type="password" placeholder="password"> <br>
+					   <input type="submit" value="log in">
+					   
+	<p><mark> My social midea account</mark>				   
+					   <br/>
+					  
+	<footer>
+	<button> <a href="http://facebook.com/mdfahimpathan61" target="blank"> <img src="image/facebook.png" height="25" width="25" title="Facebook" hspace="2"> </a>  </button>
+	<button> <a href= "https://www.instagram.com/mdfahimpathan61" target="_blank"> <abbr title="instagram"> <img src="image/instagram.jpeg" width="25"> </abbr> </a> </button>
+	<button> <a href="https://www.linkedin.com/in/mdfahimpathan61" target="_blank" <abbr title="linkedin"> <img src="image/linkedin.png" width="25"> </abbr> </a> </button>
+	</footer>
+	
+	
+
+
+
+
+
+
+
+
+
+</body>
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ </html>
